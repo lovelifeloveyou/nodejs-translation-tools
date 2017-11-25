@@ -1,0 +1,19 @@
+{
+  "name": "node-youdao-translation",
+  "version": "1.0.0",
+  "description": "nodejs”–µ¿¥ µ‰√¸¡Ó––∑≠“Î",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "superqjq",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-spinner": "^0.2.6",
+    "is-chinese": "^1.2.5",
+    "request": "^2.81.0",
+    "urlencode": "^1.1.0"
+  }
+}
