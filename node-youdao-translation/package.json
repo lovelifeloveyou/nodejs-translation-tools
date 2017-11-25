@@ -1,13 +1,13 @@
 {
   "name": "node-youdao-translation",
   "version": "1.0.0",
-  "description": "nodejsÓĞµÀ´ÊµäÃüÁîĞĞ·­Òë",
+  "description": "nodejsÃ“ÃÂµÃ€Â´ÃŠÂµÃ¤ÃƒÃ¼ÃÃ®ÃÃÂ·Â­Ã’Ã«",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "superqjq",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.1.0",
     "cheerio": "^1.0.0-rc.2",
