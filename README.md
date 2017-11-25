@@ -1,1 +1,1 @@
-# nodejs-translation-tools
+# nodejs写的谷歌翻译和有道词典的两款命令行翻译工具
